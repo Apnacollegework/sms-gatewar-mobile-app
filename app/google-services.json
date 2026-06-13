@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975089954771",
+    "project_id": "otpgateway-fdbf4",
+    "storage_bucket": "otpgateway-fdbf4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975089954771:android:f622c4e63b447bf2744926",
+        "android_client_info": {
+          "package_name": "com.aistudio.directsms.pkqmx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFGtpUca9Me3Diifv5ichtvT74i8N8hnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

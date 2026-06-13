@@ -1,0 +1,6 @@
+{
+  "name": "OTP SMS Gateway",
+  "description": "Secure, enterprise-grade SMS Gateway for OTP verification. Includes FCM listeners, HMAC authentication, real-time diagnostic checks, local rate limits, and status sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
